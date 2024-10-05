@@ -1,5 +1,13 @@
 ## Coffee Shop Sales Analysis using Excel
 
+### Table of Contents
+- [Overview](#overview)
+- [Objective](#objective)
+- [Steps](#steps)
+- [Dashboard Requirements](#dashboard-requirements)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+
 ### Overview: 
 A fictitious coffee shop operating out of three NYC locations. The stakeholders want to know sales insights for the last few months so that they can make some useful decisions to enhance sales. The dataset includes the transaction date, timestamp, location, and product-level details.
 
@@ -31,7 +39,7 @@ To create a comprehensive dashboard for coffee shop sales analyzing retail sales
 -	Barista Espresso is the highest and Brewed Black Tea is the lowest revenue-generated product type.
 -	Hell’s Kitchen is the highest and Lower Manhattan is the lowest revenue-generated store.
 
-### Recommendations: 
+### Recommendations
 -	Any discount can be applied on Saturday to minimize low orders.
 - Some customized digital marketing campaigns are needed for February.
 -	Low-selling product categories such as Packaged Chocolate, Loose Tea, and Flavours can be given a Buy 1 Get 1 offer. 
