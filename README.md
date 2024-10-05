@@ -39,9 +39,11 @@ To create a comprehensive dashboard for coffee shop sales analyzing retail sales
 -	Barista Espresso is the highest and Brewed Black Tea is the lowest revenue-generated product type.
 -	Hell’s Kitchen is the highest and Lower Manhattan is the lowest revenue-generated store.
 
-### Recommendations
+### Recommendations:
 -	Any discount can be applied on Saturday to minimize low orders.
 - Some customized digital marketing campaigns are needed for February.
 -	Low-selling product categories such as Packaged Chocolate, Loose Tea, and Flavours can be given a Buy 1 Get 1 offer. 
 -	The lowest revenue-generated product types such as Brewed Black Tea should get more focus on advertisement.
 -	Stakeholders should plan some exciting offers for the lowest revenue-generated store, Lower Manhattan. 
+
+### Thanks for Reading 🌸🌸
