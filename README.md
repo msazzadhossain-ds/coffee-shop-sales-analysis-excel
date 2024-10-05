@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis using Excel
+## Coffee Shop Sales Analysis using Excel
 
 ### Overview: 
 A fictitious coffee shop operating out of three NYC locations. The stakeholders want to know sales insights for the last few months so that they can make some useful decisions to enhance sales. The dataset includes the transaction date, timestamp, location, and product-level details.
