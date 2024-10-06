@@ -44,6 +44,9 @@ To create a comprehensive dashboard for coffee shop sales analyzing retail sales
 - Some customized digital marketing campaigns are needed for February.
 -	Low-selling product categories such as Packaged Chocolate, Loose Tea, and Flavours can be given a Buy 1 Get 1 offer. 
 -	The lowest revenue-generated product types such as Brewed Black Tea should get more focus on advertisement.
--	Stakeholders should plan some exciting offers for the lowest revenue-generated store, Lower Manhattan. 
+-	Stakeholders should plan some exciting offers for the lowest revenue-generated store, Lower Manhattan.
+
+### Dataset Credit: 
+[Maven Analytics](https://mavenanalytics.io/data-playground)
 
 ### Thanks for Reading 🌸🌸
